@@ -1,5 +1,5 @@
 
-public class Practice {
+public class Task1_5 {
     public static void main(String[] args){
         int[][] nine = new int[3][3];
         int num = 1;
